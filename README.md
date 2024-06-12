@@ -7,7 +7,7 @@
 - 🍩***Blender***
 
 #### I Know(A little)
-- 🗿***Python***
+- 🗿***Python, Bash***
 - 👾***ROS***
 - 🏎***Raspberry Pi Pico***
 
