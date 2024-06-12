@@ -12,7 +12,7 @@
 - 🏎***Raspberry Pi Pico***
 
 ### About
-I'm the guy you know as **Jack of all trades, Master of none**,
+I'm the guy you know as The **Jack of all trades**,
 *Although doing pretty good in CP:*
 - ✨️*IUT IUPC 2024* ( **IUT_Random**; rank 28)
 - ✨️*NCPC 2023* ( **IUT_Songkolpo**; rank 72)
