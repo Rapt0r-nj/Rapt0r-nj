@@ -15,8 +15,8 @@
 - 🏎***Raspberry Pi Pico***
 
 ### About
-I'm the guy you know as The **Jack of all trades**,
-*Although doing pretty good in CP:*
+I love to explore new stuff,
+*Currently trying to be better in CP (n doing pretty good?)*
 - ✨️*IUT IUPC 2024* ( **IUT_Random**; rank 28)
 - ✨️*NCPC 2023* ( **IUT_Songkolpo**; rank 72)
 - [codeforces](https://codeforces.com/profile/Rapt0r_nj)
