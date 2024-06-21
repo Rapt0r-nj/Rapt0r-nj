@@ -19,6 +19,7 @@ I love to explore new stuff,
 *Currently trying to be better in CP (n doing pretty good?)*
 - ✨️*IUT IUPC 2024* ( **IUT_Random**; rank 28)
 - ✨️*NCPC 2023* ( **IUT_Songkolpo**; rank 72)
+- IUT-Intra JPC (rank 5)
 - [codeforces](https://codeforces.com/profile/Rapt0r_nj)
 
 But beside that, I've done:
