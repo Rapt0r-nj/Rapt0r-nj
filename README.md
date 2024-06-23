@@ -24,7 +24,7 @@ I love to explore new stuff,
 
 But beside that, I've done:
 - ⬜️SpeedCubing (with personal best of 8.78s on 3x3 rubiks cube)
-- 🥋Teakwondo (technically I should be a redbelt)
+- 🥋Taekwondo (technically I should be a redbelt)
 - 🧮Competitive Math (3 times nationalist)
 - ⚓️3D modeling (decent with blender)
 - ✈️Callisthenics (currently active, umm I can hold straddle planche for 2 seconds)
