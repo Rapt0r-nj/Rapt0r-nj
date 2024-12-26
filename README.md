@@ -1,6 +1,6 @@
 ## Hi! I'm Mahiul Kabir 👋
 #### I'm a 🥷competitive programmer and 🤖robotics enthusiast, studying *CSE@IUT*
-**I'm currently working on my ~~1-2 vacation project, [DroneX](https://github.com/Rapt0r-nj/DroneX)~~ [AltairRecruitmentCodes](https://github.com/Rapt0r-nj/AltairRecruitmentCodes)**
+**I'm currently working on my ~~1-2 vacation project, [DroneX](https://github.com/Rapt0r-nj/DroneX)~~ ~~[AltairRecruitmentCodes](https://github.com/Rapt0r-nj/AltairRecruitmentCodes)~~ Akhi got recruited in Altair; find Akhi @the-NerdNinja**
 
 **You can visit my Code Library *[Snippets](https://github.com/Rapt0r-nj/Snippets)***
 
